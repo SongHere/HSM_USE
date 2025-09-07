@@ -1,6 +1,7 @@
 HSM_USE: Hybrid Sampling Mode Design for Compressive Imaging Based on Unified Sparsity Estimation
 
-The source codes and data of the work "A Hybrid Sampling Mode Design for Compressive Imaging Based on Adaptive Block Compressed Sensing"
+The source codes and data of the work 
+Z. Song, J. Chen and K. Li, "A Hybrid Sampling Mode Design for Compressive Imaging Based on Adaptive Block Compressed Sensing," 2025 5th International Conference on Neural Networks, Information and Communication Engineering (NNICE), Guangzhou, China, 2025, pp. 301-304, doi: 10.1109/NNICE64954.2025.11063861.
 
 % -----------------------------------------------------------------------
 % Author: Zhen Song
